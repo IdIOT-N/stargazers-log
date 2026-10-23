@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "octocat/Hello-World",
+    "url": "https://github.com/octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "starred_at": "2025-01-15"
+  },
+  {
+    "repository": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "starred_at": "2025-02-02"
+  },
+  {
+    "repository": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "starred_at": "2025-03-10"
+  }
+]
